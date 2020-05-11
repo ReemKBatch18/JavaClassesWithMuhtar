@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c01_BestBuy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c02_BestBuyStores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c03_MiddleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c04_NTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c05_WithoutEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c06_DoubleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c07_ReturnHiCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours_2/day02_StringsAndLoops/c08_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/WarmUpPractices/CC_BankOfAzerbaijan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/WarmUpPractices/CC_Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/WarmUpPractices/CC_HumanResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/WarmUpPractices/returnArrayListWithDoubleValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c01_WU_BankOfAzerbaijan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c02_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c03_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c04_StaticsReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c05_StaticReview_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c06_StaticsReview_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c07_StaticsReviews_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c08_StaticsReviews_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c09_InstanceBlock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day36_StaticBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day36_StaticBlock/class01_StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day36_StaticBlock/class01_StaticBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day36_StaticBlock/class07_StaticBlock_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day36_StaticBlock/class07_StaticBlock_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day36_StaticBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/WarmUpPractices/returnArrayListWithDoubleValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/WarmUpPractices/returnArrayListWithDoubleValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c01_WU_BankOfAzerbaijan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/c01_WU_BankOfAzerbaijan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c02_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/c02_ImportStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c03_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/c03_Data.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +55,20 @@
       <recent name="RESOURCES" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.returnArrayListWithDoubleValues">
+  <component name="RunManager" selected="Application.c01_WU_BankOfAzerbaijan">
+    <configuration name="c01_WU_BankOfAzerbaijan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Constructors.c01_WU_BankOfAzerbaijan" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day37_Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="c02_BestBuyStores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OfficeHours_2.day02_StringsAndLoops.c02_BestBuyStores" />
       <module name="Spring2020B18_Java" />
@@ -105,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class07_StaticBlock_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_StaticBlock.class07_StaticBlock_4" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_StaticBlock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="returnArrayListWithDoubleValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tasks.WarmUpPractices.returnArrayListWithDoubleValues" />
       <module name="Spring2020B18_Java" />
@@ -133,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.c01_WU_BankOfAzerbaijan" />
         <item itemvalue="Application.returnArrayListWithDoubleValues" />
         <item itemvalue="Application.c08_Palindrome" />
         <item itemvalue="Application.c07_ReturnHiCount" />
         <item itemvalue="Application.c02_BestBuyStores" />
-        <item itemvalue="Application.class07_StaticBlock_4" />
       </list>
     </recent_temporary>
   </component>
@@ -192,48 +182,48 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" width="684" height="728" key="#myName/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583783537936" />
-    <state width="1208" height="272" key="GridCell.Tab.0.bottom" timestamp="1589116831825">
+    <state width="1208" height="170" key="GridCell.Tab.0.bottom" timestamp="1589215835045">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589116831825" />
     <state width="1219" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="272" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589059453070" />
+    <state width="1208" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589215835045" />
     <state width="1311" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1588735203933" />
     <state width="1311" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="662" height="142" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587196925848" />
-    <state width="1208" height="272" key="GridCell.Tab.0.center" timestamp="1589116831825">
+    <state width="1208" height="170" key="GridCell.Tab.0.center" timestamp="1589215835044">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="272" key="GridCell.Tab.0.center/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589116831825" />
     <state width="1219" height="81" key="GridCell.Tab.0.center/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="272" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589059453070" />
+    <state width="1208" height="170" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589215835044" />
     <state width="1311" height="151" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1588735203932" />
     <state width="1311" height="145" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="662" height="142" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587196925848" />
-    <state width="1208" height="272" key="GridCell.Tab.0.left" timestamp="1589116831825">
+    <state width="1208" height="170" key="GridCell.Tab.0.left" timestamp="1589215835039">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="272" key="GridCell.Tab.0.left/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589116831825" />
     <state width="1219" height="81" key="GridCell.Tab.0.left/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="272" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589059453070" />
+    <state width="1208" height="170" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589215835039" />
     <state width="1311" height="151" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1588735203931" />
     <state width="1311" height="145" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="662" height="142" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587196925848" />
-    <state width="1208" height="272" key="GridCell.Tab.0.right" timestamp="1589116831825">
+    <state width="1208" height="170" key="GridCell.Tab.0.right" timestamp="1589215835045">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="272" key="GridCell.Tab.0.right/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589116831825" />
     <state width="1219" height="81" key="GridCell.Tab.0.right/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="272" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589059453070" />
+    <state width="1208" height="170" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589215835045" />
     <state width="1311" height="151" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1588735203933" />
     <state width="1311" height="145" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
@@ -310,6 +300,17 @@
     <state x="-1034" y="0" width="840" height="982" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1588263073433" />
     <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583785304893" />
     <state x="272" y="148" width="897" height="727" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587196024202" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day37_Constructors/c07_StaticsReviews_4.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Spring2020B18_Java$ForLoops_Practice.ic" NAME="ForLoops_Practice Coverage Results" MODIFIED="1586370392062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
