@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day37_Constructors/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day37_Constructors/HumanResources.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day37_Constructors/c01_WU_BankOfAzerbaijan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day37_Constructors/c02_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day37_Constructors/c03_.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c02_ImportStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c03_Data.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c04_StaticsReview.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c05_StaticReview_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day37_Constructors/c06_StaticsReview_3.java" afterDir="false" />
@@ -12,8 +19,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/WarmUpPractices/returnArrayListWithDoubleValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/WarmUpPractices/returnArrayListWithDoubleValues.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c01_WU_BankOfAzerbaijan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/c01_WU_BankOfAzerbaijan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c02_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/c02_ImportStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c03_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/c03_Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c02_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/c03_.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
