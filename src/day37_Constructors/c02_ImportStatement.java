@@ -26,8 +26,8 @@ public class c02_ImportStatement {
         but if we use this syntax:
          import static packageName.className.*; // this will import all static features (variables and methods)
          */
-        System.out.println(staticVariable);
-        staticMethod();
+        System.out.println(staticVariable); // will print 300 which is the value of our static variable in Data class
+        staticMethod(); // This will print "static method" because here we called the static method from Data class
 
     }
 }

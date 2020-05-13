@@ -6,10 +6,13 @@ public class c03_Data {
 
     static int staticVariable = 300;
     int instanceVariable = 400;
+
+    // this is my static method
     public static void staticMethod (){
         System.out.println("static method");
     }
 
+    // this is my instance method
     public void instanceMethod(){
         System.out.println("instance method");
     }
@@ -17,3 +20,6 @@ public class c03_Data {
     // I can apply the static import ==> imports static features
     // I will call them in c02_ImportStatement class:
 }
+
+
+
