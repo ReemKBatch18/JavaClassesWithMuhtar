@@ -1,7 +1,5 @@
 package day38_Constructors;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 /*
 static block vs instance block vs Constructor
 1. static block gets executed first as soon as class runs (even before print anything in main method

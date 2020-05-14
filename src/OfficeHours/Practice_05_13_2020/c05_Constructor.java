@@ -12,16 +12,21 @@ import java.lang.reflect.Constructor;
     6. accessModifier   specifier    returnType   methodName (parameter)
           optional     optional        must        must      optional
  */
+// this is my class
 public class c05_Constructor {
 
+   // this is my 1st constructor (no parameter)
     public c05_Constructor(){
         System.out.println("default constructor");
     }
 
+    // here is my main method in 05_Constructor class
     public static void main(String[] args) {
 
+        // This is the object I created from c05_Constructor class
         c05_Constructor obj = new c05_Constructor();
 
+        // These two are objects created from Employee Class: (using a constructor created there that pass 3 parameters)
         Employee emp1 = new Employee("Canan", 123, 100000);
         Employee emp2 = new Employee("Reem",456, 150000);
 // but to specify how to print info ==> we have to create our toString() in the Employee class

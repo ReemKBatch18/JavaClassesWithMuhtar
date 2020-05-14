@@ -1,7 +1,5 @@
 package OfficeHours.Practice_05_13_2020;
 
-
-
 /*
 create class called Student:
         ins variables: name, id
@@ -30,7 +28,7 @@ static String schoolName = "Cybertek"; // static variable (ONE copy only for all
 class StudentObjects{
     // here is main method:
     public static void main(String[] args) {
-        Student st1 = new Student();
+        Student st1 = new Student(); // first object
             st1.name = "madina"; // each object has its own ins variable name = madina
             st1.id = 123;       // each object has its own ins variable id = 123
         // we don't have to initialize school name for each object because all objects share ONE copy of static variable schoolName = Cybertek

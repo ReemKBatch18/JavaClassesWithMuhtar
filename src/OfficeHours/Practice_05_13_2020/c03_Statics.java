@@ -40,5 +40,6 @@ public class c03_Statics {
         System.out.println(staticVariable);
         staticMethod();
      //   instanceMethod(); // compiler error: cannot call instance method here
+        // main method (is static) can call instance variables and methods only through an object. No object created == can not call instances
     }
 }

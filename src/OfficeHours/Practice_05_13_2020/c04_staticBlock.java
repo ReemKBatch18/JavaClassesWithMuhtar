@@ -26,6 +26,6 @@ class staticBlockTest{
     public static void main(String[] args) {
 
         // because I initialized my static var in static block ==> I can call it here throug the class name where static block is
-        System.out.println(c04_staticBlock.str);
+        System.out.println(c04_staticBlock.str); // it will print "Cybertek"
     }
 }
