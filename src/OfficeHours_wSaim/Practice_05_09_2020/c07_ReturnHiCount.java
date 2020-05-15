@@ -1,4 +1,4 @@
-package OfficeHours_2.day02_StringsAndLoops;
+package OfficeHours_wSaim.Practice_05_09_2020;
 /*
 Return the number of times that the string "hi" appears anywhere in the given string.
 countHi("abc hi ho") → 1

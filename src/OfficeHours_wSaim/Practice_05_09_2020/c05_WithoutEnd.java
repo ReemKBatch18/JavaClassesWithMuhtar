@@ -1,4 +1,4 @@
-package OfficeHours_2.day02_StringsAndLoops;
+package OfficeHours_wSaim.Practice_05_09_2020;
 /*
 Given a string, return a version without both the first and last char of the string.
 The string may be any length, including 0.
