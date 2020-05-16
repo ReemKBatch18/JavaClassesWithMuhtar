@@ -8,7 +8,7 @@ public class c02_Test {
      //   System.out.println(obj.SSN); // private variable = no direct access
 
         // Now we will call the GETTER to call the PRIVATE variable like this:
-        System.out.println(obj.getSSN());
+        System.out.println(obj.getSSN()); //0 not set yet
 
         // since we cannot get to our private directly we can NOT do this:
         // obj.SSN = 123456789;

@@ -12,7 +12,7 @@ behavior and all the operations are performed using these objects.
 Encapsulation: Data Hiding
      •An object hides its internal data from code that is outside the class that the object is an instance of.
      •Only the current class’s methods can directly access and make changes to the instance variables
-     •You hide an instance variable by giving private access modifier,  andmaking the methods that access those fields public.
+     •You hide an instance variable by giving private access modifier,  and making the methods that access those fields public.
      •These public methods are called getters and setters (accessor and mutator)
 
    1. hide the data by giving 'private' access modifier
