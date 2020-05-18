@@ -11,27 +11,25 @@ A method named tick that accepts no parameters and returns no value.
 A method named isExpired that accepts no parameters.
     isExpired returns a boolean value: true if the value of timeLeft is equal to 0; false otherwise.
  */
-public class ParkingMeter {
+public class Rep_Encapsulation_ParkingMeter {
     int timeLeft = 0 ;
     int maxTime;
 
-    public ParkingMeter(int maxTime){
+    public Rep_Encapsulation_ParkingMeter(int maxTime){
         this.maxTime = maxTime;
     }
 
     public boolean add(int a){
-        if (a == 25 & (a + timeLeft)<= maxTime){
+        if (a == 25 && (25 + timeLeft)<= maxTime){
             timeLeft += 30;
             return true;
-        }else{
-            timeLeft = timeLeft;
         }
         return false;
     }
 
     public void tick(){
         if(timeLeft > 0){
-            timeLeft = timeLeft -1;
+            timeLeft -= 1;
         }
     }
 
@@ -41,19 +39,4 @@ public class ParkingMeter {
         }
         return false;
     }
-/*
-  public boolean add(int x) {
-    boolean result = false;
-    if(x == 25 && (timeLeft+25) <= maxTime) {
-      timeLeft+=25;
-      result = true;
-    }
-    return result;
-  }
-  public void tick() {if(timeLeft>0) {timeLeft-=1;}}
-  public boolean isExpired() {return (timeLeft==0) ? true : false;}
-}
- */
-
-
 }

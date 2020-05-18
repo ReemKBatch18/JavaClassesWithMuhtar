@@ -6,7 +6,7 @@ One is of type int called quantity, initialized to 250;
 the other is of type double called total, initialized to 15658.92.
 Create getNumber() and setNumber() methods that will manipulate with number instance variable.
  */
-public class Telephone_Encapsulation05 {
+public class Rep_Encapsulation_Telephone {
     //instance variable of type String called number
     String number;
     public static int quantity = 250;

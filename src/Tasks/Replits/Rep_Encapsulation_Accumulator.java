@@ -11,13 +11,13 @@ A method named remove that accepts an integer parameter.
 The value of sum is decreased by the value of the parameter.
 Override a toString method so it returns 'Sum is: X' where X is the sum instance variable.
  */
-public class Accumulator {
+public class Rep_Encapsulation_Accumulator {
     //An instance variable named sum of type integer.
     int sum;
 
     //A constructor that accepts an integer parameter,
     //whose value is used to initialize the sum instance variable.
-    public Accumulator(int sum){
+    public Rep_Encapsulation_Accumulator(int sum){
         this.sum = sum;
     }
 
