@@ -2,45 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Catalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Pluralizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Replits/UAGStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/BusinessAnalyst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/EmployeeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/AccountObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c01_BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c02_BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c03_InheritanceIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c04_Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c05_Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c06_Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c07_Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c08_AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c09_EBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c10_BooksObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/c11_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RESOURCES/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RESOURCES/Inheritance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/DeviceObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/c03_AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/c04_TestData2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/c05_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/c06_Constructor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/c07_SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/c08_InheritanceReview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours_wSaim/Practice_05_16_2020/c07_Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours_wSaim/Practice_05_16_2020/c07_Anagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/Replits/Accumulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/Replits/GasTank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/Replits/ParkingMeter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Tasks/Replits/Telephone_Encapsulation05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Replits/Accumulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_Accumulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Replits/GasTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_GasTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Replits/ParkingMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_ParkingMeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Replits/Telephone_Encapsulation05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Replits/Rep_Encapsulation_Telephone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day41_Inheritance/Task02/AccountObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day41_Inheritance/Task02/AccountObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Replits/Pluralizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks/Replits/Pluralizer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +65,13 @@
       <recent name="RESOURCES" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AccountObjects">
-    <configuration name="AccountObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Task02.AccountObjects" />
+  <component name="RunManager" selected="Application.c08_InheritanceReview">
+    <configuration name="DeviceObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.Task02.DeviceObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.Task02.*" />
+          <option name="PATTERN" value="day42_Inheritance.Task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Task01.EmployeeObjects" />
+    <configuration name="c05_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.c05_Constructor" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.Task01.*" />
+          <option name="PATTERN" value="day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c05_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.c05_Dog" />
+    <configuration name="c06_Constructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.c06_Constructor2" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.Task01.*" />
+          <option name="PATTERN" value="day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c06_Fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.c06_Fish" />
+    <configuration name="c07_SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.c07_SuperKeyword" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.Task01.*" />
+          <option name="PATTERN" value="day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c10_BooksObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.c10_BooksObjects" />
+    <configuration name="c08_InheritanceReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.c08_InheritanceReview" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.Task01.*" />
+          <option name="PATTERN" value="day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AccountObjects" />
-        <item itemvalue="Application.EmployeeObjects" />
-        <item itemvalue="Application.c10_BooksObjects" />
-        <item itemvalue="Application.c05_Dog" />
-        <item itemvalue="Application.c06_Fish" />
+        <item itemvalue="Application.c08_InheritanceReview" />
+        <item itemvalue="Application.c05_Constructor" />
+        <item itemvalue="Application.c06_Constructor2" />
+        <item itemvalue="Application.c07_SuperKeyword" />
+        <item itemvalue="Application.DeviceObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -209,84 +192,84 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" width="684" height="728" key="#myName/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583783537936" />
-    <state width="1208" height="118" key="GridCell.Tab.0.bottom" timestamp="1589833060444">
+    <state width="1208" height="262" key="GridCell.Tab.0.bottom" timestamp="1589924045595">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589726911466" />
     <state width="1219" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589833060444" />
+    <state width="1208" height="262" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589924045595" />
     <state width="1311" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1589385318394" />
     <state width="1311" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="1208" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589602830725" />
-    <state width="1208" height="118" key="GridCell.Tab.0.center" timestamp="1589833060444">
+    <state width="1208" height="262" key="GridCell.Tab.0.center" timestamp="1589924045595">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="197" key="GridCell.Tab.0.center/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589726911466" />
     <state width="1219" height="81" key="GridCell.Tab.0.center/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="118" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589833060444" />
+    <state width="1208" height="262" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589924045595" />
     <state width="1311" height="134" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1589385318394" />
     <state width="1311" height="145" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="1208" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589602830724" />
-    <state width="1208" height="118" key="GridCell.Tab.0.left" timestamp="1589833060444">
+    <state width="1208" height="262" key="GridCell.Tab.0.left" timestamp="1589924045595">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="197" key="GridCell.Tab.0.left/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589726911466" />
     <state width="1219" height="81" key="GridCell.Tab.0.left/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="118" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589833060444" />
+    <state width="1208" height="262" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589924045595" />
     <state width="1311" height="134" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1589385318394" />
     <state width="1311" height="145" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="1208" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589602830724" />
-    <state width="1208" height="118" key="GridCell.Tab.0.right" timestamp="1589833060444">
+    <state width="1208" height="262" key="GridCell.Tab.0.right" timestamp="1589924045595">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1208" height="197" key="GridCell.Tab.0.right/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589726911466" />
     <state width="1219" height="81" key="GridCell.Tab.0.right/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588884270129" />
-    <state width="1208" height="118" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589833060444" />
+    <state width="1208" height="262" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589924045595" />
     <state width="1311" height="134" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1589385318394" />
     <state width="1311" height="145" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@-1366.0.1366.728" timestamp="1583934489414" />
     <state width="1311" height="145" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584735011266" />
     <state width="1311" height="162" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588686888039" />
     <state width="1156" height="203" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1587383455366" />
     <state width="1208" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589602830724" />
-    <state width="1208" height="291" key="GridCell.Tab.1.bottom" timestamp="1589817111543">
+    <state width="1208" height="291" key="GridCell.Tab.1.bottom" timestamp="1589834551543">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1204" height="286" key="GridCell.Tab.1.bottom/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1586893792469" />
     <state width="1220" height="293" key="GridCell.Tab.1.bottom/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588005913565" />
-    <state width="1208" height="291" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589817111543" />
+    <state width="1208" height="291" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589834551543" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584635342676" />
     <state width="1311" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584652585764" />
-    <state width="1208" height="291" key="GridCell.Tab.1.center" timestamp="1589817111542">
+    <state width="1208" height="291" key="GridCell.Tab.1.center" timestamp="1589834551542">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1204" height="286" key="GridCell.Tab.1.center/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1586893792469" />
     <state width="1220" height="293" key="GridCell.Tab.1.center/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588005913564" />
-    <state width="1208" height="291" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589817111542" />
+    <state width="1208" height="291" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589834551542" />
     <state width="1311" height="207" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584635342675" />
     <state width="1311" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584652585755" />
-    <state width="1208" height="291" key="GridCell.Tab.1.left" timestamp="1589817111542">
+    <state width="1208" height="291" key="GridCell.Tab.1.left" timestamp="1589834551542">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1204" height="286" key="GridCell.Tab.1.left/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1586893792469" />
     <state width="1220" height="293" key="GridCell.Tab.1.left/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588005913564" />
-    <state width="1208" height="291" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589817111542" />
+    <state width="1208" height="291" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589834551542" />
     <state width="1311" height="207" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584635342675" />
     <state width="1311" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584652585755" />
-    <state width="1208" height="291" key="GridCell.Tab.1.right" timestamp="1589817111542">
+    <state width="1208" height="291" key="GridCell.Tab.1.right" timestamp="1589834551543">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state width="1204" height="286" key="GridCell.Tab.1.right/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1586893792469" />
     <state width="1220" height="293" key="GridCell.Tab.1.right/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1588005913565" />
-    <state width="1208" height="291" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589817111542" />
+    <state width="1208" height="291" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589834551543" />
     <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584635342675" />
     <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584652585755" />
     <state x="-1280" y="0" key="SettingsEditor" timestamp="1587528946246">
@@ -294,13 +277,13 @@
     </state>
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1587528946246" />
     <state x="49" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583782512893" />
-    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1589801366243">
+    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1589897165842">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
-    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589801366243" />
+    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589860488760" />
     <state x="319" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@0.0.1366.728" timestamp="1588787654269" />
     <state x="1605" y="257" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1587383496012" />
-    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589668735817" />
+    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589897165842" />
     <state x="319" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@0.0.1366.728" timestamp="1589642642982" />
     <state x="1605" y="257" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@1366.0.1024.1240" timestamp="1587390877195" />
     <state x="319" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584712180372" />
@@ -314,10 +297,11 @@
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state x="-1280" y="42" key="new project wizard/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1588962631199" />
-    <state x="-1041" y="215" key="run.anything.popup" timestamp="1586810128976">
+    <state x="-1041" y="215" key="run.anything.popup" timestamp="1589902696320">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state x="-1041" y="215" key="run.anything.popup/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1586810128976" />
+    <state x="-1041" y="215" key="run.anything.popup/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589902696320" />
     <state x="255" y="159" key="run.anything.popup/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583869394199" />
     <state x="-1034" y="0" width="840" height="982" key="search.everywhere.popup" timestamp="1588950871505">
       <screen x="-1280" y="0" width="1280" height="984" />
