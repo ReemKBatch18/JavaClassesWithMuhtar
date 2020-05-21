@@ -23,4 +23,12 @@ public class c03_AccessModifiers {
     private long SSN = 123456789;
     // even if we try to call it outside this class and inside the same package ==> compiler error
 
+
 }
+
+/*
+• we can call public variables and methods any where in any class in one whole project.
+• we call call protected variables and methods in any class in one package.
+• Also we can call protected variables and methods in any sub class in one whole project.
+• we can call default variables and methods in any class in one package ONLY.
+ */
