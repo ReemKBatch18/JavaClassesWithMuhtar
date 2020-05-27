@@ -1,6 +1,5 @@
 package day42_Inheritance;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 
 class Test{     //  SUPER CLASS
     // to create SUPER CLASS constructor here:

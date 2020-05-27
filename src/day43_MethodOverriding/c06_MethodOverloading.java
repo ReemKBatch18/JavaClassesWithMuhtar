@@ -1,5 +1,5 @@
 package day43_MethodOverriding;
-/* to overload method:
+/* to OVERLOAD method:
                     same method name BUT different parameter
                     return-type can be same or different
                     access modifier can be same or different
