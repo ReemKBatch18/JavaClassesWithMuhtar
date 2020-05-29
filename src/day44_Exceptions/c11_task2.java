@@ -5,7 +5,7 @@ public class c11_task2 {
     // should I declare my method as static or instance?
     // creating as static easier ==> we can call through class name
     // instance method ==> I will have to create an object to call it
-    public static void waits(double seconds){
+    public static void wait(double seconds){
         try{
             Thread.sleep((long) seconds * 1000);
         }catch (Exception e){
@@ -16,7 +16,7 @@ public class c11_task2 {
     //this is my main method to try waits() method
     public static void main(String[] args) {
         System.out.println("java");
-        waits(3);
+        wait(3.5);
         System.out.println("cybertek");
 
 
