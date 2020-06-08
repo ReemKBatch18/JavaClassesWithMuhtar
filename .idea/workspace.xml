@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c01_Final_Introduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c02_Final_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c03_Final_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c04_Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c05_Final_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c06_quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c07_Final_Methods_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c08_Final_Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c09_Final_Practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c10_Abstraction_Introduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c11_shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c12_circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c13_shape_objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c14_square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c15_rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_FinalSpecifier_Abstraction/c16_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/Task01/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/Task01/cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/Task01/tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day45_Exceptions/c08_CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day45_Exceptions/c08_CustomException.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +136,19 @@
       <option name="presentableId" value="Default" />
       <updated>1583771159584</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1591648163135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648163136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1148" y="79" width="1016" height="905" key="#Intentions" timestamp="1588926998970">
@@ -205,6 +196,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" width="684" height="728" key="#myName/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583783537936" />
+    <state x="-1102" y="41" key="CommitChangelistDialog2" timestamp="1591648426588">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1102" y="41" key="CommitChangelistDialog2/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1591648426588" />
     <state x="-910" y="213" key="FileChooserDialogImpl" timestamp="1591056684319">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
@@ -311,6 +306,10 @@
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1587528946246" />
     <state x="49" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583782512893" />
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590242006769" />
+    <state x="-1144" y="182" key="Vcs.Push.Dialog.v2" timestamp="1591648260648">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1144" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1591648260648" />
     <state x="319" y="151" key="com.intellij.ide.util.TipDialog" timestamp="1591624176961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
