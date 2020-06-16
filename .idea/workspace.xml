@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/AnimalObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/OOP_Review/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/OOP_Review/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/OOP_Review/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Reference_Type_Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/AppleInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c01_SumOf_Array_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c02_Reversed_Array_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c03_ReturnLongestString_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c04_ReverseEachPart_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c05_CountUpperLower_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day49_Polymorphisim/c01_Polymorphism_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/c01_Polymorphism_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day48_Abstraction_Interface/c01_Interface_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_Abstraction_Interface/c01_Interface_Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592087753741</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added">
+      <created>1592277628280</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592277628280</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,10 +289,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" width="684" height="728" key="#myName/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583783537936" />
-    <state x="-1078" y="8" key="CommitChangelistDialog2" timestamp="1592087752209">
+    <state x="-1078" y="8" key="CommitChangelistDialog2" timestamp="1592277626879">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state x="-1078" y="8" key="CommitChangelistDialog2/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1592087752209" />
+    <state x="-1078" y="8" key="CommitChangelistDialog2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@-1280.0.1280.984" timestamp="1592277626879" />
     <state x="-910" y="213" key="FileChooserDialogImpl" timestamp="1591824704728">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
@@ -399,25 +399,27 @@
     <state width="1208" height="291" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589834551543" />
     <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584635342675" />
     <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584652585755" />
-    <state x="-1280" y="0" key="SettingsEditor" timestamp="1591828774250">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1592346961653">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1587528946246" />
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1591711688006" />
     <state x="49" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583782512893" />
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@-1280.0.1280.984" timestamp="1591828774250" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592346961653" />
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590242006769" />
-    <state x="-1144" y="182" key="Vcs.Push.Dialog.v2" timestamp="1592087776818">
+    <state x="-1144" y="182" key="Vcs.Push.Dialog.v2" timestamp="1592277655833">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state x="-1144" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1592087776818" />
-    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1592276712839">
+    <state x="-1144" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@-1280.0.1280.984" timestamp="1592277655833" />
+    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1592314683993">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
     <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1589860488760" />
     <state x="319" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@0.0.1366.728" timestamp="1588787654269" />
     <state x="1605" y="257" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@1366.0.1024.1240" timestamp="1587383496012" />
-    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1592223689679" />
+    <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1592314683993" />
     <state x="319" y="151" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@0.0.1366.728" timestamp="1590070088319" />
     <state x="1512" y="310" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@1366.0.864.1496" timestamp="1591121277692" />
     <state x="-981" y="204" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589897165842" />
