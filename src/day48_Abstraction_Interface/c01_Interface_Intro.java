@@ -138,7 +138,7 @@ DEFAULT METHOD:
     // interface can not create objects
     // the only way is to inherit it into another class using implements keyword
     // We can only execute default method after we inherit it into a class from the interface
-    // we create object in the sub class then call method through the object
+    // we create object in the sub class then call default method through the object
 
 
      */
@@ -146,7 +146,7 @@ DEFAULT METHOD:
 public interface c01_Interface_Intro {
 
     public abstract void method1(); // public and abstract keywords are grey because we don't need them.
-                                    // They'll be there by default
+                                    // They'll be there by default.
     public void method2();          // abstract method by default
     void method3();                 // public abstract method by default
 }
