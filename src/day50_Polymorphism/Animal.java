@@ -12,8 +12,10 @@ package day50_Polymorphism;
             methods: bark
  */
 public abstract class Animal { // this class can't create object but it can be in the reference type side of creating objects
+    // variables
     public int age;
     public String gender;
+   // methods
     public void eat(){
         System.out.println("Animal is eating");
             }
