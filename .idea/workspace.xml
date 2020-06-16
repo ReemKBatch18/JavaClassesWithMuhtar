@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="" />
+    <list default="true" id="1c279b13-f0fb-45d0-ab05-dfddfd54d5a8" name="Default Changelist" comment="added">
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c01_SumOf_Array_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c02_Reversed_Array_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c03_ReturnLongestString_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c04_ReverseEachPart_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_03_2020/c05_CountUpperLower_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c01_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c02_SocialMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c03_FacebookUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c04_User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c05_Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c06_Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c07_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_wSaim/Practice_06_10_2020/c08_User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/WarmUpTask/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/WarmUpTask/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/WarmUpTask/PhoneObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/WarmUpTask/iPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/c01_Polymorphism_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/AnimalObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/OOP_Review/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/OOP_Review/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/OOP_Review/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Reference_Type_Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/AppleInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/ScrumTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism/Task2_ScrumTeam/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day48_Abstraction_Interface/c01_Interface_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_Abstraction_Interface/c01_Interface_Intro.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +72,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -191,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592347146115</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added">
+      <created>1592347381244</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592347381244</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,12 +329,12 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" width="684" height="728" key="#myName/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583783537936" />
-    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1592347348958">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1592347826191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1078" y="8" key="CommitChangelistDialog2/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1592087752209" />
     <state x="-1078" y="8" key="CommitChangelistDialog2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@-1280.0.1280.984" timestamp="1592277626879" />
-    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592347348958" />
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592347826191" />
     <state x="-910" y="213" key="FileChooserDialogImpl" timestamp="1591824704728">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
@@ -399,21 +440,25 @@
     <state width="1208" height="291" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1280.0.1280.984@-1280.0.1280.984" timestamp="1589834551543" />
     <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1584635342675" />
     <state width="1311" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584652585755" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1592346961653">
+    <state x="372" y="11" key="RollbackChangesDialog" timestamp="1592347742079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="11" key="RollbackChangesDialog/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592347742079" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1592347878122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984/1366.0.1024.1240@-1280.0.1280.984" timestamp="1587528946246" />
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1591711688006" />
     <state x="49" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1024.1240/-1366.0.1366.728@0.0.1366.728" timestamp="1583782512893" />
     <state x="-1280" y="0" key="SettingsEditor/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@-1280.0.1280.984" timestamp="1591828774250" />
-    <state x="0" y="0" key="SettingsEditor/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592346961653" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592347878122" />
     <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590242006769" />
-    <state x="145" y="71" key="Vcs.Push.Dialog.v2" timestamp="1592347230669">
+    <state x="145" y="71" key="Vcs.Push.Dialog.v2" timestamp="1592347403444">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1144" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1280.0.1280.984/1366.0.864.1496@-1280.0.1280.984" timestamp="1592087776818" />
     <state x="-1144" y="182" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@-1280.0.1280.984" timestamp="1592277655833" />
-    <state x="145" y="71" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592347230669" />
+    <state x="145" y="71" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.864.1496/-1280.0.1280.984@0.0.1366.728" timestamp="1592347403444" />
     <state x="-981" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1592314683993">
       <screen x="-1280" y="0" width="1280" height="984" />
     </state>
