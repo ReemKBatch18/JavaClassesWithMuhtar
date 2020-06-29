@@ -46,9 +46,9 @@ ArrayList:  multiple threads can get access to ArrayList to execute at the same 
 Vector:     multiple threads can get access to Vector to execute one by one ==> we achieve thread safety
             disadvantage is : synchronized is slower
             Only time Vector is preferred to be used when you have multi-thread
-            it is extended by Stack(C) ==> Stack inherited from Vector
+            it is extended by Stack(C) ==> Stack inherits from Vector
 
-Stack(C):   extends Vector(C)
+Stack(C):   extends Vector(C) : LIFO
             Stack is also synchronized
             pop() method: Last in First out (only unique in the Stack class)
             pop() method: whatever object was added to stack ==> will be first to be removed
@@ -89,7 +89,7 @@ TreeSet(C):
         sorts the objects  ==> it is designed for sorting
 
 null:
-        default vlue of all reference type
+        default value of all reference type
         does not refer to any object
         WebElement element;         // null
         String str;                 // null

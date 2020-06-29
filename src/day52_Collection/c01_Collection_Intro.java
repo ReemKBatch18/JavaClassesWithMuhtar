@@ -9,7 +9,7 @@ We need data structure to manage data efficiently and in an organized matter
 Array vs ArrayList
 Array size is fixed, ArrayList size is Dynamic
 Array supports primitives and objects, ArrayList supports only objects
-Array can be multi-dimentioal, ArrayList can not be multi- dimentional
+Array can be multi-dimentional, ArrayList can not be multi- dimentional
 Array has index number, and accepts duplicates. ArrayList also has index number and accepts duplicates
 
 To sort any array => we used Arrays.sort(arrayname) method
