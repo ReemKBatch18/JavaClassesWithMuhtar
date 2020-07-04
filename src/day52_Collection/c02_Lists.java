@@ -1,5 +1,6 @@
 package day52_Collection;
 /*
+
 ArrayList(C) = implements List (I)
             is an array based class
             internally uses array
@@ -85,8 +86,20 @@ Set (I):
         SortedSet(I) is implemented by TreeSet(C) class
 
 TreeSet(C):
+        implements Set interface
         doesn't accept duplicates
-        sorts the objects  ==> it is designed for sorting
+        sorts the objects  ==> it is designed for sorting objects in ascending order
+        Does not accept null value
+        internally uses a TreeMap to store elements
+        implements NavigableSet interface, which extends SortedSet interface, which extends Set interface
+
+HashSet(C):
+        unordered collection containing unique elements
+        implements Set interface, backed by hash table (which is an instance of HashMap)
+        accepts null value
+        does not allow duplicates
+        class is not synchronized
+        does not keep same order
 
 null:
         default value of all reference type
@@ -94,8 +107,28 @@ null:
         WebElement element;         // null
         String str;                 // null
 
-hashset :
-        doesn't accept nul ker
+Collection(I) :
+    /      |    \
+   /      |      \
+  /      |        \
+Set(I)   List(I)   Queue(I)
+
+Collection(I) is inherited by:      Set Interface
+                                    List Interface
+                                    Queue Interface
+
+Set(I) is inherited by:     HashSet Class
+                            LinkedHashSet Class
+                            TreeSet Class (inherits SortedSet interface)
+
+List(I) is inherited by:    ArrayList Class
+                            Vector Class
+                            LinkedList Class
+
+Queue(I) is inherited by:   LinkedList Class
+                            Priority Queue Class
+
+
 
  */
 
